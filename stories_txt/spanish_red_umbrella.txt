@@ -1,0 +1,28 @@
+slug: spanish_red_umbrella
+language: Spanish
+lang_zh: 西班牙语
+title: El Paraguas Rojo
+speaker: Ryan
+level: A2-B1
+target_comprehension: 75%-90%
+word_count_goal: 100-180 words
+sentence_style: Clear, warm, descriptive, with common daily vocabulary.
+grammar_focus: Everyday narration and emotional description.
+instruct: Speak clearly, gently, and with a warm smile. Keep a natural storytelling rhythm.
+summary_zh: Sofia 的外婆会为邻居家的猫撑红伞，因为她希望猫也觉得天空很温柔。
+vocab:
+- cada tarde = 每天下午
+- el paraguas = 雨伞
+- el balcon = 阳台
+- la lluvia = 雨
+- asustarse = 害怕
+- amable = 温柔的、友善的
+story:
+Cada tarde, Sofía veía un paraguas rojo en el balcón de su abuela.
+El problema era simple: no había lluvia, y su abuela no salía.
+Un día, Sofía preguntó: "Abuela, ¿por qué está ahí?"
+La abuela sonrió y dijo: "Es para el gato del vecino."
+Sofía miró al gato. El gato dormía al sol, muy tranquilo.
+"Cuando llueve, se asusta", explicó la abuela.
+"Entonces yo abro el paraguas para que piense que el cielo es amable."
+Desde ese día, Sofía dijo que su abuela no cuidaba solo plantas. También cuidaba la confianza de los gatos.

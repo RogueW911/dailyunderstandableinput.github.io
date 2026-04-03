@@ -1,0 +1,28 @@
+slug: german_fridge_letters
+language: German
+lang_zh: 德语
+title: Der Kühlschrank, der Briefe schrieb
+speaker: Aiden
+level: A2
+target_comprehension: 70%-85%
+word_count_goal: 80-160 words
+sentence_style: Short sentences, repeated high-frequency words, only a small amount of structural variation.
+grammar_focus: Everyday expressions plus 1-2 core grammar points.
+instruct: Speak clearly and calmly, like a friendly story for a language learner.
+summary_zh: Mara 发现自家冰箱会写纸条，还自称 Karl，而且特别爱奶酪和整齐。
+vocab:
+- jeden Abend = 每天晚上
+- der Kühlschrank = 冰箱
+- der Zettel = 纸条
+- allein wohnen = 一个人住
+- Briefe schreiben = 写信
+- Ordnung = 秩序、整齐
+story:
+Jeden Abend öffnete Mara ihren Kühlschrank und fand einen kleinen Zettel.
+Am Montag stand dort: "Bitte kauf mehr Käse."
+Am Dienstag stand dort: "Die Tomaten sind traurig."
+Mara wohnte allein, also war das Problem klar: Ihr Kühlschrank schrieb Briefe.
+Sie stellte sich vor den Kühlschrank und sagte: "Gut, aber wer bist du?"
+Am nächsten Morgen lag ein neuer Zettel da.
+"Ich bin Karl. Ich mag Ordnung und Käse."
+Seitdem sprach Mara jeden Abend mit Karl, und ihr Kühlschrank war immer perfekt organisiert.

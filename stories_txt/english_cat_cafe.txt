@@ -1,0 +1,28 @@
+slug: english_cat_cafe
+language: English
+lang_zh: 英语
+title: The Cat Who Ran a Tiny Cafe
+speaker: Ryan
+level: C1
+target_comprehension: 85%-95%
+word_count_goal: 180-350 words
+sentence_style: Natural storytelling, clear rhythm, a few higher-level expressions, but still easy to follow by ear.
+grammar_focus: Collocations, tone, narrative pacing, and small humorous details.
+instruct: Speak clearly, warm, and a little playful. Moderate storytelling pace.
+summary_zh: Leo 先喂猫再开店，结果一只流浪猫意外成了咖啡馆真正的明星。
+vocab:
+- tiny cafe = 小咖啡馆
+- street cat = 流浪猫
+- cash register = 收银台
+- customer = 顾客
+- paper hat = 纸帽子
+- ran the cafe = 管着这家店
+story:
+Every morning, Leo opened his tiny cafe at seven.
+He did not make coffee first. He fed a street cat first.
+One rainy Monday, the cat walked into the cafe and sat on the cash register.
+A customer laughed and said, "Your manager is here."
+Leo put a small paper hat on the cat.
+The next day, three new customers came to see the famous manager.
+By Friday, the cat had a name, a chair, and more fans than Leo.
+Leo still made the coffee, but everyone knew who really ran the cafe.
